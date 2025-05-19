@@ -15,3 +15,4 @@ The tables have a row for each element created by scraping the reference page fo
 It's entirely possible the layout of the reference page on MDN changes and ```htmlElements``` breaks.
 If so, please open a ticket on the 
 [WebDevAccess issues page](https://github.com/joeldodson/webdevaccess/issues).
+

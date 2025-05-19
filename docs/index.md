@@ -15,4 +15,5 @@ The scripts should all be runnable using ```pipx```.
 :caption: Table of Contents
 
 htmlElements.md
+CHANGELOG.md
 ```
